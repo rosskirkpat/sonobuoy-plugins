@@ -7,7 +7,7 @@ require (
 	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/pkg/errors v0.8.1
 	github.com/spf13/cobra v1.0.0
-	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/appengine v1.6.1 // indirect
 	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.18.4
